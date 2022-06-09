@@ -5,8 +5,8 @@ const Dogs = () => {
         <div>
             <h3>Dogs</h3>
             <div>
-                <img src="./dog.png" />
-                <img src="./dog.png" />
+                <img src="../../images/dogs.jpg" />
+                <img src="../../images/dogs.jpg" />
             </div>
         </div>
     );
